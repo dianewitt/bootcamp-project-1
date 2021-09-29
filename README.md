@@ -5,6 +5,7 @@
 ### **Group Project with:**
 - [zach-18](https://github.com/zach-18)
 - [regross527](https://github.com/regross527)
+
 ### **[New York Times: State by State COVID Shutdowns](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html)**
 * The article includes shutdown dates and durations
 * National Shutdownn started March 13th, 2020
