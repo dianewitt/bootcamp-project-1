@@ -1,5 +1,3 @@
-<!-- # data-clean-analyze-present -->
-
 ## **Did Alcohol Consumption Trends Change Due to COVID Infection Rates and Shutdowns?**
 
 ### **Group Project with:**
