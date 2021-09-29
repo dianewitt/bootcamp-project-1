@@ -49,5 +49,6 @@
 r-squared is: 0.05457303978387858 
 y = -43.58x + 56.19
 ```
-    ![Total Alcohol Consumption (volume) by Year](Images/fig7.png)
+
+![Total Alcohol Consumption (volume) by Year](Images/fig7.png)
  
